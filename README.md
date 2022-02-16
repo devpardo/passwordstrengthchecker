@@ -1,4 +1,4 @@
-# password
+# Password strength checker
 
 ## Project setup
 ```
